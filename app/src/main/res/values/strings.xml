@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App Adivina Numero 2</string>
+    <string name="et_hint_nombre">Nombre</string>
+    <string name="et_hint_intentos">Número de intentos</string>
+    <string name="btn_acceder">Acceder</string>
+    <string name="toast_err_nombre">Debes llenar el campo nombre</string>
+    <string name="toast_err_todo">Debes llenar todos los campos</string>
+    <string name="toast_err_intento">Debes llenar el campo intentos</string>
+    <string name="tv_nombre">Bienvenido %1$s</string>
+    <string name="tv_intentos">Número de intentos restantes: \n%1$d</string>
+    <string name="et_hint_numero">Introduce un número</string>
+    <string name="toast_error_adivinar">No has acertado el número, inténtelo de nuevo</string>
+    <string name="toast_error_sin_intentos">Erros, ya no tienens más intentos</string>
+</resources>
